@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwitterFollower</string>
+    <string name="title_follower_detail">Follower Detail</string>
+</resources>
